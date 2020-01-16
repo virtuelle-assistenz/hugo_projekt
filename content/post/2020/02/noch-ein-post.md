@@ -13,4 +13,3 @@ menu:
 [Link zu meinem Post] ({{<ref "01.md">}})
 
 {{<youtube 9GAYj92SqOc >}}
-{{<gist spf13 7896402>}}
